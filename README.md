@@ -1,5 +1,16 @@
 # MobilePrograming_Personal_Homework
 
+# Week03
+
+## 3주차 과제(1) _ ActivityLifeCycle 영상 유튜브 업로드
+
+**유튜브 링크
+https://youtu.be/rAJV1ROcNcw**
+
+**안드로이드스튜디오 MainActivicy Capture**
+
+
+
 # Week02
 
 ## 2주차 과제(2) _ 깃허브 수정 코드
